@@ -1,0 +1,1 @@
+PHP ASSIGNMENT (1)\n\n1. Extract PHP_Assignment_1 into C:\\xampp\\htdocs\n2. Start Apache from XAMPP.\n3. Open http://localhost/PHP_Assignment_1/\n\nThe project contains 12 tasks. Each task has its own PHP file inside pages. Bootstrap is used for simple styling.
