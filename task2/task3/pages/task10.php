@@ -1,0 +1,1 @@
+<?php include "../includes/header.php"; ?><h2>Task 10 - Sorting</h2><div class="result"><?php $tests=[6,4,9,3,12,8,7]; sort($tests); echo "Sorted array: ".implode(" ",$tests); ?><?php if(isset($message)) echo $message; ?></div><a href="../index.php" class="btn btn-secondary mt-3">Back</a><?php include "../includes/footer.php"; ?>

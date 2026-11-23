@@ -1,0 +1,1 @@
+<?php include "../includes/header.php"; ?><h2>Task 1 - If / Else</h2><div class="result"><?php $age=20; if($age>18){$message="You are allowed to login.";}else{$message="You are not allowed to login.";} ?><?php if(isset($message)) echo $message; ?></div><a href="../index.php" class="btn btn-secondary mt-3">Back</a><?php include "../includes/footer.php"; ?>
